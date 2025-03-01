@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Impactable/static/css/main.39877bb6.css",
+    "main.js": "/Impactable/static/js/main.da3e04b1.js",
+    "static/js/453.0c73395f.chunk.js": "/Impactable/static/js/453.0c73395f.chunk.js",
+    "static/media/main-bg.png": "/Impactable/static/media/main-bg.c93d99504cab781d6f73.png",
+    "index.html": "/Impactable/index.html",
+    "main.39877bb6.css.map": "/Impactable/static/css/main.39877bb6.css.map",
+    "main.da3e04b1.js.map": "/Impactable/static/js/main.da3e04b1.js.map",
+    "453.0c73395f.chunk.js.map": "/Impactable/static/js/453.0c73395f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39877bb6.css",
+    "static/js/main.da3e04b1.js"
+  ]
+}
