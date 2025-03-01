@@ -23,7 +23,7 @@ function MobileMenu() {
   return (
     <div className="mobile-menu-container">
       <div className="logo">
-        <img src="/white-logo.svg" alt="IMPACTABLE" />
+        <img src={`${process.env.PUBLIC_URL}/white-logo.svg`} alt="IMPACTABLE" />
         <span>IMPACTABLE</span>
       </div>
       
