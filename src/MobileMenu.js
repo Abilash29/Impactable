@@ -46,8 +46,8 @@ function MobileMenu() {
         <div className="menu-overlay">
           {currentMenu === 'main' && (
             <ul className="main-menu">
-              <li><a href="/">Home</a></li>
-              <li><a href="/about">About Us</a></li>
+              <li><a href="/Impactable">Home</a></li>
+              <li><a href="/Impactable">About Us</a></li>
               <li className="has-submenu" onClick={() => navigateToSubmenu('investment')}>
                 Investment
                 <span className="arrow">›</span>
@@ -56,11 +56,11 @@ function MobileMenu() {
                 Impact Industry Building
                 <span className="arrow">›</span>
               </li>
-              <li><a href="/news">News & Insights</a></li>
-              <li><a href="/terms">Terms of Use</a></li>
-              <li><a href="/privacy">Privacy Policy</a></li>
+              <li><a href="/Impactable">News & Insights</a></li>
+              <li><a href="/Impactable">Terms of Use</a></li>
+              <li><a href="/Impactable">Privacy Policy</a></li>
               <li className="contact-button-container">
-                <a href="/contact" className="contact-button">Contact Us</a>
+                <a href="/Impactable" className="contact-button">Contact Us</a>
               </li>
             </ul>
           )}
@@ -73,12 +73,12 @@ function MobileMenu() {
                 </div>
               </div>
               <ul>
-                <li><a href="/why-impactable">Investment</a></li>
-                <li><a href="/why-impactable">Why Impactable?</a></li>
-                <li><a href="/em-products">Impactable EM products</a></li>
+                <li><a href="/Impactable">Investment</a></li>
+                <li><a href="/Impactable">Why Impactable?</a></li>
+                <li><a href="/Impactable">Impactable EM products</a></li>
               </ul>
               <div className="contact-button-container">
-                <a href="/contact" className="contact-button">Contact Us</a>
+                <a href="/Impactable" className="contact-button">Contact Us</a>
               </div>
             </div>
           )}
@@ -91,12 +91,12 @@ function MobileMenu() {
                 </div>
               </div>
               <ul>
-                <li><a href="/network">Impact Industry Building</a></li>
-                <li><a href="/network">Impactable Network</a></li>
-                <li><a href="/technical-assistance">Impactable Technical Assistance</a></li>
+                <li><a href="/Impactable">Impact Industry Building</a></li>
+                <li><a href="/Impactable">Impactable Network</a></li>
+                <li><a href="/Impactable">Impactable Technical Assistance</a></li>
               </ul>
               <div className="contact-button-container">
-                <a href="/contact" className="contact-button">Contact Us</a>
+                <a href="/Impactable" className="contact-button">Contact Us</a>
               </div>
             </div>
           )}
